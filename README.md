@@ -27,6 +27,7 @@ Hisab-Kitab helps users **track expenses and incomes**, update their balance in 
 ---
 
 ## 📁 Project Structure  
+```
 Hisab-Kitab/
 ├── public/
 │ ├── index.html
@@ -34,7 +35,7 @@ Hisab-Kitab/
 │ └── script.js
 ├── index.js
 └── package.json
-
+```
 
 ---
 
