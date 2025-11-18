@@ -15,6 +15,10 @@ A clean and efficient **Expense Tracker** built using **Node.js**, **Express**, 
 Hisab-Kitab helps users **track expenses and incomes**, update their balance in real-time, and maintain a clean history of all financial records.
 
 ---
+## Project Preview
+
+<img width="1882" height="854" alt="image" src="https://github.com/user-attachments/assets/2dc661fa-62cf-469b-8252-ac8e7e73c726" />
+
 
 ##  Features
 
