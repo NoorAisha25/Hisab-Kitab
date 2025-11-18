@@ -62,7 +62,7 @@ node index.js
 ```
 Your app will run at: http://localhost:5000
 
-##How to Use
+## How to Use
 
 -Open the app in browser
 -Select Income or Expense
