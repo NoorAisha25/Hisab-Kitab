@@ -64,27 +64,27 @@ Your app will run at: http://localhost:5000
 
 ## How to Use
 
--Open the app in browser
--Select Income or Expense
--Enter Amount, Info, and Date
--Click Add
--View updated balance + transaction list
--Delete entries anytime
+- Open the app in browser
+- Select Income or Expense
+- Enter Amount, Info, and Date
+- Click Add
+- View updated balance + transaction list
+- Delete entries anytime
 
 ## Backend
 
--Express.js for routing
--Body-Parser for handling input
--MongoDB + Mongoose for database operations
+- Express.js for routing
+- Body-Parser for handling input
+- MongoDB + Mongoose for database operations
 
 ## Future Enhancements
 
--Edit/Update entries
--Monthly reports & charts
--Income–expense analytics
--User login system
--Export to CSV/PDF
--Mobile-optimized UI
+- Edit/Update entries
+- Monthly reports & charts
+- Income–expense analytics
+- User login system
+- Export to CSV/PDF
+- Mobile-optimized UI
 
 ## Contribution
 
