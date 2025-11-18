@@ -26,7 +26,7 @@ Hisab-Kitab helps users **track expenses and incomes**, update their balance in 
 
 ---
 
-## 📁 Project Structure  
+##  Project Structure  
 ```
 Hisab-Kitab/
 ├── public/
@@ -39,7 +39,7 @@ Hisab-Kitab/
 
 ---
 
-## 🔧 Installation & Setup
+##  Installation & Setup
 
 ### 1 Clone the repository
 ```bash
