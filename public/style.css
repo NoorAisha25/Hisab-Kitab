@@ -1,0 +1,143 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+body {
+    margin: 0;
+    height: 100vh;
+    background:
+        repeating-linear-gradient(
+            135deg,
+            rgba(255,255,255,0.03) 0 3px,
+            transparent 3px 6px
+        ),
+        linear-gradient(135deg, #50786ac0, #89d4c1, #97f6d3);
+    background-blend-mode: soft-light;
+}
+
+
+/* Circular animated color ball */
+.color-ball {
+    position: absolute;
+    width: 350px;
+    height: 350px;
+    background: radial-gradient(circle, #00ffcc, #058d5f, #009966);
+
+    border-radius: 50%;
+    filter: blur(80px);
+    animation: moveBall 14s infinite ease-in-out;
+    opacity: 0.8;
+}
+
+@keyframes moveBall {
+    0%   { transform: translate(-10%, -10%); }
+    25%  { transform: translate(60vw, 10vh); }
+    50%  { transform: translate(40vw, 60vh); }
+    75%  { transform: translate(-20vw, 40vh); }
+    100% { transform: translate(-10%, -10%); }
+}
+
+h1{
+    text-align: center;
+    font-size: 100px;
+    justify-content: center;
+    font-weight: 1000;
+    background: linear-gradient(to right,rgb(97, 217, 207),rgb(0, 0, 0));
+    background-clip: text;
+    color:transparent;
+    gap: 100px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+h2{
+    text-align: center;
+    justify-content: center;
+    font-size: 40px;
+    color: rgb(7, 66, 55);
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+.input-section{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;              
+    gap: 25px;                    
+    align-items: center;
+    padding: 20px 30px;
+    padding-left: 60px;
+}
+
+.input-section label{
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 26px;
+    margin-right: 8px;
+}
+
+.input-section input{
+    padding: 10px 15px;
+    border-radius: 10px;
+    background-color: rgb(100, 226, 215);
+    border: none;
+    transition: all 0.5s;
+}
+
+.input-section select{
+    padding: 10px 15px;
+    border-radius: 10px;
+    background-color: rgb(100, 226, 215);
+    border: none;
+    transition: all 0.5s;
+    cursor: pointer;
+}
+
+.input-section button{
+    padding: 10px 25px;
+    background-color: aqua;
+    border-radius: 10px;
+    font-weight: bold;
+    border: none;
+    cursor: pointer;
+    margin-left: 10px;            
+}
+
+.expenses-list{
+    margin: 20px;
+}
+table{
+    width:100%;
+    border-collapse: collapse;
+}
+th,td{
+    border: 1px solid rgb(33, 110, 104);
+    padding: 8px;
+    text-align: left;
+}
+th{
+    background-color: rgba(54, 164, 155, 0.663);
+    color:white;
+}
+tfoot td{
+    font-weight: bold;
+}
+.delete-btn{
+    padding: 5px 10px;
+    background-color: rgb(81, 4, 4);
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+
