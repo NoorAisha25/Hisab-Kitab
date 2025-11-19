@@ -21,7 +21,7 @@ Hisab-Kitab helps users **track expenses and incomes**, update their balance in 
 
 ## Project Demo Video
 
-https://github.com/NoorAisha25/Hisab-Kitab/blob/main/Untitled%20video%20-%20Made%20with%20Clipchamp.mp4
+https://drive.google.com/file/d/1pWJO187SVOabsWYTwmrR7JLvyse8njKg/view?usp=drivesdk
 
 
 ##  Features
