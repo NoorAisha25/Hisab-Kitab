@@ -19,6 +19,10 @@ Hisab-Kitab helps users **track expenses and incomes**, update their balance in 
 
 <img width="1882" height="854" alt="image" src="https://github.com/user-attachments/assets/2dc661fa-62cf-469b-8252-ac8e7e73c726" />
 
+## Project Demo Video
+
+https://github.com/NoorAisha25/Hisab-Kitab/blob/main/Untitled%20video%20-%20Made%20with%20Clipchamp.mp4
+
 
 ##  Features
 
