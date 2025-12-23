@@ -1,6 +1,6 @@
-<p align="center">
-  Hisaab-Kitaab
-</p>  
+
+#                                               Hisaab-Kitaab
+
 ## A clean and efficient **Expense Tracker** built using **Node.js**, **Express**, and **MongoDB**.
 
 ## Demo : https://hisab-kitab-kappa.vercel.app/
